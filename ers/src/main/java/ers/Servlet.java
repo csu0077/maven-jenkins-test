@@ -81,7 +81,7 @@ public class Servlet extends HttpServlet {
 			}
 			else
 			{
-				response.sendRedirect("Employee.html");
+				response.sendRedirect("NewFile.jsp");
 			}
 		}
 	}
